@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "homepage": "https://alexanderson1993.github.io/react-lazy",
+  "homepage": "https://alexanderson1993.github.io/react-lazy-presentation",
   "main": "src/index.js",
   "dependencies": {
     "@reach/router": "1.2.1",

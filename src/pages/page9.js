@@ -9,6 +9,11 @@ export default () => (
     </h1>
     <ul>
       <li>
+        <a href="https://alexanderson1993.github.io/react-lazy-presentation">
+          https://alexanderson1993.github.io/react-lazy-presentation
+        </a>
+      </li>
+      <li>
         <a href="https://reactjs.org/docs/code-splitting.html">
           https://reactjs.org/docs/code-splitting.html
         </a>
