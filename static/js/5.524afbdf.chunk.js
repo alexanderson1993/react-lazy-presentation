@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{66:function(e,l,n){"use strict";n.r(l);var t=n(0),a=n.n(t);l.default=function(){return a.a.createElement(a.a.Fragment,null,a.a.createElement("h1",null,"Dynamic `import()`"),a.a.createElement("ul",null,a.a.createElement("li",null,"TC39 Stage-3 Proposal"),a.a.createElement("li",null,"Webpack & Browserify keyword for code splitting"),a.a.createElement("li",null,"Promise resolves to module contents")))}}}]);
+//# sourceMappingURL=5.524afbdf.chunk.js.map
