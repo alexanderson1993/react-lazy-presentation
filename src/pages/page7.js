@@ -2,23 +2,16 @@ import React from "react";
 
 export default () => (
   <>
-    <div
-      style={{
-        display: "flex",
-        justifyContent: "space-around",
-        alignItems: "center"
-      }}
-    >
-      <img
-        style={{ width: "50%" }}
-        src={require("../images/before.png")}
-        alt="before"
-      />
-      <img
-        style={{ width: "50%" }}
-        src={require("../images/after.png")}
-        alt="after"
-      />
-    </div>
+    <h1>Other Considerations</h1>
+    <ul>
+      <li>Route-based code splitting with React Router or Reach Router</li>
+      <li>
+        Dynamic Preload with <code>onMouseEnter</code>
+      </li>
+      <li>Include Error boundaries to catch 404s and request errors</li>
+      <li>
+        Imported modules <strong>must</strong> be default exports
+      </li>
+    </ul>
   </>
 );

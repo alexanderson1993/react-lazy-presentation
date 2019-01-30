@@ -2,15 +2,26 @@ import React from "react";
 
 export default () => (
   <>
-    <h1>Other Considerations</h1>
+    <h1 style={{ fontSize: "100px" }}>
+      <span role="img" aria-label="wave">
+        👋
+      </span>
+    </h1>
     <ul>
-      <li>Route-based code splitting with React Router or Reach Router</li>
       <li>
-        Dynamic Preload with <code>onMouseEnter</code>
+        <a href="https://reactjs.org/docs/code-splitting.html">
+          https://reactjs.org/docs/code-splitting.html
+        </a>
       </li>
-      <li>Nested {`<Suspense>`} and Error boundaries</li>
       <li>
-        Imported modules <strong>must</strong> be default exports
+        <a href="https://twitter.com/ralex1993">
+          https://twitter.com/ralex1993
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/alexanderson1993">
+          https://github.com/alexanderson1993
+        </a>
       </li>
     </ul>
   </>

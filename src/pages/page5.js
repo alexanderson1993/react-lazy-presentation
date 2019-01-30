@@ -3,15 +3,17 @@ import Highlight from "react-highlight";
 
 export default () => (
   <>
-    <h1>{`Error Boundary`}</h1>
-    <p>Error handler</p>
+    <h1>All Together</h1>
     <Highlight className="javascript">
-      {`const ErrorBoundedComp = () => (
+      {`const MyComponent = React.lazy(() => import('./myComponent.js'))
+
+const SuspendedComponent = () => (
   <ErrorBoundary>
-    <SuspendedComp />
+    <Suspense fallback={<Loading />}>
+      <MyComponent /> {/* Only loaded when rendered.*/}
+    </Suspense>
   </ErrorBoundary
 )`}
     </Highlight>
-    <p>Put it somewhere in the component tree</p>
   </>
 );
