@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{66:function(e,n,t){"use strict";t.r(n);var a=t(0),l=t.n(a);n.default=function(){return l.a.createElement(l.a.Fragment,null,l.a.createElement("h1",null,"Dynamic `import()`"),l.a.createElement("ul",null,l.a.createElement("li",null,"Webpack & Browserify keyword for code splitting")))}}}]);
+//# sourceMappingURL=4.7aaa74bb.chunk.js.map

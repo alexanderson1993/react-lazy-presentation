@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{68:function(e,n,a){"use strict";a.r(n);var t=a(0),l=a.n(t),s=a(73),c=a.n(s);n.default=function(){return l.a.createElement(l.a.Fragment,null,l.a.createElement("h1",null,"<Suspense>"),l.a.createElement("p",null,"Loading fallback handler"),l.a.createElement(c.a,{className:"javascript"},"const SuspendedComp = () => (\n  <Suspense fallback={<Loading />}>\n    <MyComponent />\n  </Suspense>\n)"),l.a.createElement("p",null,"Put it somewhere in the component tree"))}}}]);
-//# sourceMappingURL=7.51f40f0b.chunk.js.map

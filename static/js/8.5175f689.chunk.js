@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{69:function(e,n,r){"use strict";r.r(n);var a=r(0),t=r.n(a),o=r(73),l=r.n(o);n.default=function(){return t.a.createElement(t.a.Fragment,null,t.a.createElement("h1",null,"Error Boundary"),t.a.createElement("p",null,"Error handler"),t.a.createElement(l.a,{className:"javascript"},"const ErrorBoundedComp = () => (\n  <ErrorBoundary>\n    <SuspendedComp />\n  </ErrorBoundary\n)"),t.a.createElement("p",null,"Put it somewhere in the component tree"))}}}]);
-//# sourceMappingURL=8.5175f689.chunk.js.map

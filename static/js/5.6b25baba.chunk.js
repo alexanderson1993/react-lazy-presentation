@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{67:function(e,a,n){"use strict";n.r(a);var t=n(0),l=n.n(t),r=n(72),c=n.n(r);a.default=function(){return l.a.createElement(l.a.Fragment,null,l.a.createElement("h1",null,"React.lazy"),l.a.createElement("p",null,"Special Wrapper for `import()`"),l.a.createElement(c.a,{className:"javascript"},"const MyComponent = React.lazy(() => import('./myComponent.js'))"),l.a.createElement("p",null))}}}]);
+//# sourceMappingURL=5.6b25baba.chunk.js.map
